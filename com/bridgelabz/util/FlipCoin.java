@@ -2,7 +2,7 @@
  *  Compilation:  javac -d bin FlipCoin.java
  *  Execution:    java -cp bin com.bridgelabz.util.FlipCoin 
  *  
- *  Purpose: Determines whether or not month and day is SpringSeason.
+ *  Purpose: Simulate a fair coin flip and print out "heads" or "tails".
  *
  *  @author  Saamiya
  *  @version 1.0
@@ -25,3 +25,11 @@ package com.bridgelabz.util;
  		}
  	}
  }
+
+/*OUTPUT
+* C:\Users\samiya\Desktop\Saamiya>java -cp bin com.bridgelabz.util.FlipCoin
+* Heads
+*
+* C:\Users\samiya\Desktop\Saamiya>java -cp bin com.bridgelabz.util.FlipCoin
+* Tails
+*/

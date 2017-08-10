@@ -25,6 +25,7 @@ public class HarmonicNumber{
 	}
 
 	public static void main(String[] args){
+		/*args.length is the length of the arguments passed to the program*/
 		for(int i=0;i<args.length;i++){
 			int arg=Integer.parseInt(args[i]);
 			double value=Harmonic(arg);
@@ -32,3 +33,4 @@ public class HarmonicNumber{
 		}
 	}
 }
+
