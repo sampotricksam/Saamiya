@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:  javac -d bin SpringSeason.java
+ *  Compilation:  javac -d bin com/bridgelabz/util/SpringSeason.java
  *  Execution:    java -cp bin com.bridgelabz.util.SpringSeason m d
  *  
  *  Purpose: Determines whether or not month and day is SpringSeason.

@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:  javac -d bin LeapYear.java
+ *  Compilation:  javac -d bin com/bridgelabz/util/LeapYear.java
  *  Execution:    java -cp bin com.bridgelabz.util.LeapYear n
  *  
  *  Purpose: Determines whether or not year is LeapYear.

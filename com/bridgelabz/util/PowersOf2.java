@@ -1,8 +1,8 @@
 /******************************************************************************
- *  Compilation:  javac -d bin PowersOf2.java
+ *  Compilation:  javac -d bin com/bridgelabz/util/PowersOf2.java
  *  Execution:    java -cp bin com.bridgelabz.util.PowersOf2 
  *  
- *  Purpose: .
+ *  Purpose: Prints a table of powers of 2.
  *
  *  @author  Saamiya
  *  @version 1.0

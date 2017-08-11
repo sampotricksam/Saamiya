@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:  javac -d bin FlipCoin.java
+ *  Compilation:  javac -d bin com/bridgelabz/util/FlipCoin.java
  *  Execution:    java -cp bin com.bridgelabz.util.FlipCoin 
  *  
  *  Purpose: Simulate a fair coin flip and print out "heads" or "tails".
