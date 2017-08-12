@@ -2,7 +2,7 @@
  *  Compilation:  javac -d bin com/bridgelabz/util/SecondLargest_Smallest.java
  *  Execution:    java -cp bin com.bridgelabz.util.SecondLargest_Smallest
  *  
- *  Purpose: Performs the given operations according to the precedence
+ *  Purpose: To find Second largest and second smallest element from unsorted array and without sorting array.
  *
  *  @author  Saamiya
  *  @version 1.0
