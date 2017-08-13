@@ -9,7 +9,7 @@
  *  @since   11-08-2017
  *
  ******************************************************************************/
-/*PACKAGE NAMING STYLE*/
+
 package com.bridgelabz.util;
 
 class CarLoan{
@@ -40,9 +40,4 @@ class CarLoan{
 		System.out.println("Rs "+loanPerMonth+" to be paid every month");
 	}
 }		
-/*OUTPUT
-* C:\Users\samiya\Desktop\Saamiya>javac -d bin com/bridgelabz/util/CarLoan.java
-*
-*C:\Users\samiya\Desktop\Saamiya>java -cp bin com.bridgelabz.util.CarLoan 50000 5 3
-* Rs 898.4345332031745 to be paid every month
-*/
+

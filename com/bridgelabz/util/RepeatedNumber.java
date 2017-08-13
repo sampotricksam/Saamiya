@@ -9,14 +9,15 @@
  *  @since   10-08-2017
  *
  ******************************************************************************/
-/*PACKAGE NAMING STYLE*/
+
 package com.bridgelabz.util;
 import java.util.Scanner;
 public class RepeatedNumber{
+ static int a[];
 	public static void main(String[] args) {
 		Scanner s = new Scanner (System.in);
 		//define array for storing the nos
-		int a[]=new int[100];
+		a=new int[100];
 		System.out.println("Enter the no. of elements:");
 		int no=s.nextInt();
 		System.out.println("Enter the elements of array:");

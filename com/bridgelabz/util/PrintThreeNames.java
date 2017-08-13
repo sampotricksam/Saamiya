@@ -9,25 +9,25 @@
  *  @since   12-08-2017
  *
  ******************************************************************************/
-/*PACKAGE NAMING STYLE*/
-package com.bridgelabz.util;
-import java.util.Scanner;
 
-public class PrintThreeNames{
-	public static void main(String[] args) {
-		Scanner scan = new Scanner (System.in);
-		
+package com.bridgelabz.util;
+
+
+public class PrintThreeNames{	
+	
+		public static void main(String[] args) {
+			//Scanner scan = new Scanner (System.in);
+			String firstName,secondName,thirdName;
 		/*
 		* Accept three strings from user
 		*/
-		System.out.println("Enter three names:");
-		String firstName = scan.next();
-		String secondName = scan.next();
-		String thirdName = scan.next();
-		
+			firstName=args[0];
+			secondName=args[1];
+			thirdName=args[2];
 		/*
 		* Print string in reverse format
 		*/
+		
 		System.out.println("Hi\t"+ thirdName + " \t  " + secondName + " \t " + firstName);
 	}
 }
