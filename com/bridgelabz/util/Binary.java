@@ -1,3 +1,14 @@
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/Binary.java
+ *  Execution:    java -cp bin com.bridgelabz.util.Binary 
+ *  
+ *  Purpose: Simulate a fair coin flip and print out "heads" or "tails".
+ *
+ *  @author  Saamiya
+ *  @version 1.0
+ *  @since   10-08-2017
+ *
+ ******************************************************************************/
 package com.bridgelabz.util;
 
 public class Binary { 
