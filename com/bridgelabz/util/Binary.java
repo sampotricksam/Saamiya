@@ -2,7 +2,7 @@
  *  Compilation:  javac -d bin com/bridgelabz/util/Binary.java
  *  Execution:    java -cp bin com.bridgelabz.util.Binary 
  *  
- *  Purpose: Simulate a fair coin flip and print out "heads" or "tails".
+ *  Purpose: prints the binary (base 2) representation of the decimal number.
  *
  *  @author  Saamiya
  *  @version 1.0
